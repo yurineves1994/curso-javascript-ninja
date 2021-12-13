@@ -24,7 +24,7 @@ Onde VALOR é o novo valor da variável.
 */
 function novaFunction(valor){
     novaVariavel = valor;
-    return novaVariavel;
+    return "O valor da variável agora é " + novaVariavel;
 }
 
 // Invoque a função criada acima.
